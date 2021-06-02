@@ -1,0 +1,90 @@
+.FtPerfil{
+
+    border-radius: 200px;
+    max-width: 200px;
+    border: 1px solid black
+
+}
+
+body{
+
+    background-color: #f7f7f7;
+
+}
+
+#organizaçao{
+
+    width: 800px;
+    margin-left: 500px;
+
+
+}
+
+#menu{
+    
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+
+}
+
+.nav-item{
+    
+    margin: 0 25px;
+}
+
+#ajuste{
+
+    margin-top: 100px;
+
+}
+
+.seta{
+
+    position: absolute;
+    margin-left: -90px;
+    margin-top: -43px;
+
+}
+
+#seta1{
+
+    display: none;
+
+}
+
+#seta2{
+   
+    display: none;
+
+}
+
+#seta3{
+    
+    display: none;
+
+}
+
+#seta4{
+  
+    display: none;  
+
+}
+
+#seta5{
+   
+    display: none;  
+
+}
+
+#seta6{
+   
+    display: none;  
+
+}
+
+
+#menu ul li a{
+
+color: #000000;  
+    
+}
